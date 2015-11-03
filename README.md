@@ -1,3 +1,4 @@
+ [ ![Download](https://api.bintray.com/packages/liangpengfei/maven/loadingPopPoint/images/download.svg) ](https://bintray.com/liangpengfei/maven/loadingPopPoint/_latestVersion)
 # LoadingPopPoint
 this is a view that three colorful point circle in the screen 
 
