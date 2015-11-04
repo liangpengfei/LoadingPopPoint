@@ -1,9 +1,12 @@
+
  [ ![Download](https://api.bintray.com/packages/liangpengfei/maven/loadingPopPoint/images/download.svg) ](https://bintray.com/liangpengfei/maven/loadingPopPoint/_latestVersion)
+ 
+ [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-LoadingPopPoint-green.svg?style=flat)](https://android-arsenal.com/details/1/2717)
 # LoadingPopPoint
 this is a view that three colorful point circle in the screen 
 
 # Preview
-It may look likes this 
+It may looks like this 
 
 ![Imgur](http://i.imgur.com/wq0gInp.gif)
 
@@ -33,4 +36,4 @@ XML
 
 #License
 
-No license,You can share it as you like it! Wish you can learn some basic tips from my repository!
+No license,You can share it as you like it! Wish you can learn some basic tips from my repository! 
