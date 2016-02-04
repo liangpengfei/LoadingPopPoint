@@ -1,17 +1,8 @@
 language: android
 android:
-components:
-    # Uncomment the lines below if you want to
-    # use the latest revision of Android SDK Tools
-    # - platform-tools
-    # - tools
-
-    # The BuildTools version used by your project
+  components:
     - build-tools-23.0.0
-
-    # The SDK version used to compile your project
-
-    # Additional components
-
-    # Specify at least one system image,
-    # if you need to run emulator(s) during your tests
+    - android-L
+    - sys-img-x86-android-tv-l
+    - add-on
+    - extra
