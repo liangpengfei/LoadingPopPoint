@@ -6,3 +6,4 @@ android:
     - sys-img-x86-android-tv-l
     - add-on
     - extra
+script: ./gradlew assembleDebug
