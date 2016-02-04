@@ -1,7 +1,7 @@
 language: android
 android:
   components:
-    - build-tools-20.0.0
+    - build-tools-23.0.0
     - android-L
     - sys-img-x86-android-tv-l
     - add-on
